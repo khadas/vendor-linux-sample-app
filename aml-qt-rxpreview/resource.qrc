@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/my/photo">
+        <file>fleur-SE2zTdS1MNo-unsplash.jpg</file>
+        <file>fleur-SE2zTdS1MNo-unsplash_1280x720p.jpg</file>
+        <file>fleur-SE2zTdS1MNo-unsplash_1920x1080.jpg</file>
+    </qresource>
+</RCC>
