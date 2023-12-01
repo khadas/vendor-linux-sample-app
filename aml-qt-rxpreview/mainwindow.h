@@ -17,7 +17,6 @@
 #include <iostream>
 #include <gst/gst.h>
 #include <gst/video/videooverlay.h>
-#include "ImageDisplayThread.h"
 #include "Whiteboard.h"
 #include "Page1.h"
 #include "Page2.h"
